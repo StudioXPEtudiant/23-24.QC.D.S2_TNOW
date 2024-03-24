@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/concepteur ( Philippe)/scene/menu pricipal.unity
+    guid: 80019394080fb2a4682460e9eb5d0375
+  - enabled: 1
+    path: Assets/tnow.unity
+    guid: 8b9e37f259f8a5c47a650022f520b256
   m_configObjects: {}
